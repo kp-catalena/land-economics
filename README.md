@@ -66,5 +66,6 @@ Texas A&M Enrollment by Year
 *  Texas A&M will continue to expand in the coming years. I believe if we did this analysis in another 10 years we would see more of the Northgate district being developed with apartments to support the demand for housing.
 
 
-Overall thoughts on project:
+**Overall thoughts on project:**
+
 I really enjoyed the project. I think it gave me the opportunity to practice using unorganized data to extract an interesting and useful story. It gave me a chance to use SQL to extract data across different original sources that were related. I also had the opportunity to extract data from the Census website, which was a little challenging to understand at first, but after extracting the wrong data a few times, I finally got the data I was looking for, which added an additional layer or useful information to my analysis. 
