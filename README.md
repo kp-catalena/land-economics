@@ -9,17 +9,17 @@ The class was split into groups of 4/5 people. We were asked by the professor an
 
 - Burleson county CAD information (BCAD)
 - Crime information (crime type, date, location, resolution, etc.)
-- Property information (property type, value, tax informaiton, etc.)
+- Property information (property type, value, tax information, etc.)
 - List of BCAD codes for reference
 
 **Additional data gathered:**
 
-- Demogrpahic information (education level, age, race) for the location based on the 2010 and 2020 US census info
+- Demographic information (education level, age, race) for the location based on the 2010 and 2020 US census info
 - Texas A&M University population information (pulled from TAMUs website)
 
 **My contribution:**
 
-I was extremely excited about this project becuase I thought it would be a great opportunity to analyze some data, tell a story with visualizations, and get valuable feedback from individuals who did data analysis everyday. Since I was so excited, I took more of a leading role for the project. When I was reviewing the raw data, which was provided in excel format across different files, I realized it was going to be very difficult to extract any valuable information from the excels. I decided to throw the excel documents into a basic (non-relational) database, so I could use SQL to pull relevant information from different sources, eventually building data sets for each topic mentioned above. I then shared what data I had pulled with my teammates and cordinated with them on who would do each topic. 
+I was extremely excited about this project because I thought it would be a great opportunity to analyze some data, tell a story with visualizations, and get valuable feedback from individuals who did data analysis everyday. Since I was so excited, I took more of a leading role for the project. When I was reviewing the raw data, which was provided in excel format across different files, I realized it was going to be very difficult to extract any valuable information from the excel. I decided to throw the excel documents into a basic (non-relational) database, so I could use SQL to pull relevant information from different sources, eventually building data sets for each topic mentioned above. I then shared what data I had pulled with my teammates and coordinated with them on who would do each topic. 
 
 **Data I extracted for the team to pick and choose from:**
 
@@ -44,8 +44,8 @@ I was extremely excited about this project becuase I thought it would be a great
 
 **Contributions continued:**
 
-I decided to take the demogrpahic slide becuase I thoght it would be interesting to see how demogrpahics changed as the university population changed over time. I then created the slide below: 
-![Demogrpahic Slide](https://github.com/kp-catalena/land-economics/assets/139026712/5397752a-eb9f-4060-b29e-5d64aa7995a7)
+I decided to take the demographic slide because I thought it would be interesting to see how demographics changed as the university population changed over time. I then created the slide below: 
+![Demographic Slide](https://github.com/kp-catalena/land-economics/assets/139026712/5397752a-eb9f-4060-b29e-5d64aa7995a7)
 
 Unfortunately, my group was not as interested in the project as I was. I had to contact them over and over in order to get them to spend time looking at the data and even then they did not finish their visualizations until right before the due date. 
 
@@ -53,12 +53,12 @@ Unfortunately, my group was not as interested in the project as I was. I had to 
 **Conclusions gathered regarding demographics:**
 
 Northgate Population and Housing Units
-* According to the census dayta College Station grew by 30.8% between 2010 and 2020 and as for the Northgate district, the population has increased by 147 percent in that same time frame. 
+* According to the census data College Station grew by 30.8% between 2010 and 2020 and as for the Northgate district, the population has increased by 147 percent in that same time frame. 
 * This is due to the increased number of housing units that have been built in this time, which has increased by nearly 200%. 
 
 Northgate Population by Race
 * I would not expect the distribution across races to change much with the increase in population since the area is geared towards students. You would only see a drastic change in the breakdown of race in the Northgate district, if the distribution of races among students at Texas A&M changed drastically.
-* The majority of those who filled out the census identified as 1 race and you can see that the distribution among races was, in general, pretty consistent between 2010 and 2020. 
+* The majority of those who filled out the census identified themselves as 1 race and you can see that the distribution among races was, in general, pretty consistent between 2010 and 2020. 
 
 Texas A&M Enrollment by Year
 * Since 2010, Texas A&M Enrollment has increased by almost 50% from around 50,000 students to now nearly 75,000 students. 
@@ -69,3 +69,5 @@ Texas A&M Enrollment by Year
 **Overall thoughts on project:**
 
 I really enjoyed the project. I think it gave me the opportunity to practice using unorganized data to extract an interesting and useful story. It gave me a chance to use SQL to extract data across different original sources that were related. I also had the opportunity to extract data from the Census website, which was a little challenging to understand at first, but after extracting the wrong data a few times, I finally got the data I was looking for, which added an additional layer or useful information to my analysis. 
+
+
